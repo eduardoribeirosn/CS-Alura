@@ -1,0 +1,70 @@
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\appsettings.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.staticwebassets.endpoints.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.exe
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.deps.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.runtimeconfig.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.pdb
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.sourcelink.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\scopedcss\bundle\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.styles.css
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# .41CDB67C.Up2Date
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\refint\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.pdb
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.genruntimeconfig.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\ref\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\musicas-favoritas-Daniel.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\appsettings.Development.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\appsettings.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\musicas-favoritas-Daniel.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.staticwebassets.endpoints.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.exe
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.deps.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.runtimeconfig.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.pdb
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.csproj.AssemblyReference.cache
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.AssemblyInfoInputs.cache
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.AssemblyInfo.cs
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.csproj.CoreCompileInputs.cache
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.sourcelink.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\scopedcss\bundle\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.styles.css
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\staticwebassets.build.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\staticwebassets.development.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\swae.build.ex.cache
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# .41CDB67C.Up2Date
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\refint\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.pdb
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.genruntimeconfig.cache
+C:\Dev\CS-Alura\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net10.0\ref\01 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll

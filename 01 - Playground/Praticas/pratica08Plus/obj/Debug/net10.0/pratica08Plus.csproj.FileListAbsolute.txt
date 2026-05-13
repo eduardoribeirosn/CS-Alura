@@ -1,0 +1,15 @@
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\bin\Debug\net10.0\pratica08Plus.exe
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\bin\Debug\net10.0\pratica08Plus.deps.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\bin\Debug\net10.0\pratica08Plus.runtimeconfig.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\bin\Debug\net10.0\pratica08Plus.dll
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\bin\Debug\net10.0\pratica08Plus.pdb
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\pratica08Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\pratica08Plus.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\pratica08Plus.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\pratica08Plus.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\pratica08Plus.sourcelink.json
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\pratica08Plus.dll
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\refint\pratica08Plus.dll
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\pratica08Plus.pdb
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\pratica08Plus.genruntimeconfig.cache
+C:\Users\eduar\OneDrive\Documentos\Estudos\C#\CS-Alura\01 - Playground\Praticas\pratica08Plus\obj\Debug\net10.0\ref\pratica08Plus.dll

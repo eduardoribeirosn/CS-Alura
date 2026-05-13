@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o6uq4iCPOuo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduar\\OneDrive\\Documentos\\Estudos\\C#\\CS-Alura\\01 - Playground\\Praticas\\pratica05\\pratica05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

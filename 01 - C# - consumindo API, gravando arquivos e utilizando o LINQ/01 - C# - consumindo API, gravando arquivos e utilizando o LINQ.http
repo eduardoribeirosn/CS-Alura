@@ -1,0 +1,6 @@
+@_01___C____consumindo_API__gravando_arquivos_e_utilizando_o_LINQ_HostAddress = http://localhost:5299
+
+GET {{_01___C____consumindo_API__gravando_arquivos_e_utilizando_o_LINQ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
